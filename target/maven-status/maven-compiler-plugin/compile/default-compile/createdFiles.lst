@@ -1,0 +1,12 @@
+user_interface\GuiGame.class
+model\King.class
+model\Bishop.class
+config\Constants.class
+model\Piece.class
+type\Side.class
+model\Knight.class
+model\Pawn.class
+user_interface\CliGame.class
+Application.class
+model\Queen.class
+model\Rook.class
