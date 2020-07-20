@@ -10,6 +10,10 @@ public abstract class Piece {
         this.side = side;
     }
 
+    public Side getSide() {
+        return side;
+    }
+
     public abstract String getDisplayName();
 
     public String toString() {
